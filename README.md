@@ -17,6 +17,8 @@ Windows, MacOS ve Linux için uygundur
 - Koşul Girme; eğer (koşul): KOŞUL SAĞLANDIĞINDA ÇALIŞACAK KOD
 - Koşul sağlanmazsa; değilse: KOŞUL SAĞLANMADIĞINDA ÇALIŞACAK KOD
 - For Kullanımı; için ELEMANLAR in LİSTE veya için ELEMANLAR in aralığında(VERİ)
+- Aralık Kullanımı; aralığında(VERİ)
+- Kullanıcıdan Veri Alma; giriş()
 
 ## Bilgi
 Bu proje orta okullu bir türk genci tarafından yapılmıştır eğitimlerimi tamamen kendim sağladım Youtube vb. üzerinden eğer ben bu kaynaklar ile bunları yapabiliyorsam sizde yapabilirsiniz. Kendinize Güvenin
