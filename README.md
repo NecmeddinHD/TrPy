@@ -8,7 +8,7 @@ TrPy i kullanmak için python şarttır python u orjinal sitesinden yada microso
 - 3 dosyayı ya çift tıklayarak yada exe nin üzerine sürükleyerek açın
 
 ## Uyumluluk
-Windows, MacOS ve Linux için uygundur
+Windows için uygundur
 
 ## Kod Yazma
 - Yazı yazdırma; yazdır("Yazı") Çıktı : Yazı
