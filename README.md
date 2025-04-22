@@ -14,6 +14,9 @@ Windows, MacOS ve Linux için uygundur
 - Yazı yazdırma; yazdır("Yazı") Çıktı : Yazı
 - Fonksiyon Oluşturma; fonksiyon isim(Fonksiyonun İhtiyaç Duyduğu Değişkenler OPSİYONELDİR ): Fonksiyon Çağrılınca Çalışıcak Kodlar
 - Çıktı döndürme; geri_dön VERİLECEK ÇIKTI
+- Koşul Girme; eğer (koşul): KOŞUL SAĞLANDIĞINDA ÇALIŞACAK KOD
+- Koşul sağlanmazsa; değilse: KOŞUL SAĞLANMADIĞINDA ÇALIŞACAK KOD
+- For Kullanımı; için ELEMANLAR in LİSTE veya için ELEMANLAR in aralığında(VERİ)
 
 ## Bilgi
 Bu proje orta okullu bir türk genci tarafından yapılmıştır eğitimlerimi tamamen kendim sağladım Youtube vb. üzerinden eğer ben bu kaynaklar ile bunları yapabiliyorsam sizde yapabilirsiniz. Kendinize Güvenin
