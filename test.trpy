@@ -1,0 +1,12 @@
+yazdır("sa")
+
+deger = 1
+
+eğer (deger==1):
+    yazdır("")
+    yazdır("selam")
+
+fonksiyon topla(a, b):
+    geri_dön a + b
+
+print(topla(1,1))
