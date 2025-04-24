@@ -12,12 +12,12 @@ Windows için uygundur
 
 ## Sistem Gereksinimleri
 
-İşletim Sistemi:	Windows 8.1 veya üstü
-İşlemci:	1.5 GHz veya daha hızlı x86-64 işlemci
-RAM:	4 GB RAM veya daha fazla
-Depolama Alanı:	50 MB boş alan
-Ekran:	1024x768 çözünürlük veya daha yüksek
-Python:	Python 3.12 veya daha yeni
+- İşletim Sistemi:	Windows 8.1 veya üstü
+- İşlemci:	1.5 GHz veya daha hızlı x86-64 işlemci
+- RAM:	4 GB RAM veya daha fazla
+- Depolama Alanı:	50 MB boş alan
+- Ekran:	1024x768 çözünürlük veya daha yüksek
+- Python:	Python 3.12 veya daha yeni
 
 ## Kod Yazma
 - Yazı yazdırma; yazdır("Yazı") Çıktı : Yazı
