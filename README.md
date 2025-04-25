@@ -21,7 +21,7 @@ Windows için uygundur
 - Python :	Python 3.12 veya daha yeni
 
 ## Kod Yazma
-Tomlamda
+Tomlamda 45 çeviri
   fonksiyon : def,
   yazdır : print
   giriş : input
