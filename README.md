@@ -23,52 +23,99 @@ Windows için uygundur
 ## Kod Yazma
 Tomlamda 45 çeviri
   fonksiyon : def,
+  
   yazdır : print
+  
   giriş : input
+  
   Doğru : True,
+  
   Yanlış : False,
+  
   geri_dön : return,
+  
   eğer : if,
+  
   değilse : else,
+  
   döngü : while,
+  
   gezin : for,
+  
   içinde : in,
+  
   aralığında : range,
+  
   sınıf : class,
+  
   yazı : str,
+  
   tamsayı : int,
+  
   ondalık : float,
+  
   doğrumu : bool,
+  
   demet : tuple,
+  
   liste : list,
+  
   küme : set,
+  
   sözlük : dict,
+  
   aktar : import,
+  
   doğrula : assert,
+  
   say : count,
+  
   ekle : add,
+  
   çıkar : remove,
+  
   sistem : system,
+  
   çıkış : exit,
+  
   aç : open,
+  
   klasör : dir,
+  
   veritabanı : database,
+  
   sistem : system,
+  
   veri : data,
+  
   buPaketten : from,
+  
   çalıştır : exec,
+  
   çalış : run,
+  
   uznuluğu : len,
+  
   boş : None,
+  
   çıktısı : stdout,
+  
   hata_çıktısı : stderr,
+  
   yaz : write,
+  
   hiç : any,
+  
   hepsi : all,
+  
   devam_et : continue,
+  
   eğde : elif,
+  
   veya : or,
+  
   dene : try,
+  
   yerel : local
 
 ## Bilgi
