@@ -121,5 +121,6 @@ Tomlamda 45 çeviri
 ## Bilgi
 Bu proje orta okullu bir türk genci tarafından yapılmıştır eğitimlerimi tamamen kendim sağladım Youtube vb. üzerinden eğer ben bu kaynaklar ile bunları yapabiliyorsam sizde yapabilirsiniz. Kendinize Güvenin
 
-## Eğitim Videoları bu kanala gelecektir
-![ChatGPT Image 7 Nis 2025 16_39_01](https ://github.com/user-attachments/assets/8f690501-8204-47ae-b4ef-6b7f8222652f)
+## Eğitim Videoları bu kanala gelecek
+![ChatGPT Image 7 Nis 2025 16_39_01](https://github.com/user-attachments/assets/89ba87a0-45a6-4d3a-8298-784510e96052)
+
