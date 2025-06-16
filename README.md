@@ -1,5 +1,5 @@
 # TrPy
-TrPy nin açılımı Türkçe Pythondur Kısaca TrPy Bu Python u türkçe bir şekilde kodlamanızı sağlar bu paketi yayınki ülkemizin gençlerinin başara bileceklerinin bir sınırı olmayacağını tüm türkiye bilsin ve gençlerimizi desteklesin
+TrPy nin açılımı Türkçe Pythondur Kısaca TrPy Bu Python u türkçe bir şekilde kodlamanızı sağlar bu paketi yayın ki ülkemizin gençlerinin başara bileceklerinin bir sınırı olmayacağını tüm türkiye bilsin ve gençlerimizi desteklesin
 
 ## Kullanım
 TrPy i kullanmak için python şarttır python u orjinal sitesinden yada microsoft store dan indire bilirsiniz
